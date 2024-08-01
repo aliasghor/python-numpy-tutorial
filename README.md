@@ -1,5 +1,5 @@
 # Hi! Welcome to my Python NumPy repsitory tutorial!
-This repository is part of my Python NumPy (**Numerical Python**) tutorial.
+This repository is part of my Python NumPy (**Numerical Python**) tutorial. Every part of Python **NumPy** tutorials will have their own branches.
 
 ## What is NumPy?
 According to [numpy.org](https://numpy.org/doc/stable/user/whatisnumpy.html#whatisnumpy), NumPy is a fundamental package for scientific computing. It is a Python library that provides multidimensional array, shape manipulation, mathematical logical, basic linear algebra, basic statistical operations, etc.
